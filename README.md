@@ -1,6 +1,6 @@
 
 <!-- ===================== BANNER ===================== -->
-![logo](https://raw.githubusercontent.com/Akshad2911/Akshad2911/main/Github%20banner.png)
+![logo](https://github.com/UtkarshDas-2005/UtkarshDas-2005/blob/main/GitHub%20Banner.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Utkarsh Das</h1>
 <h3 align="center">
