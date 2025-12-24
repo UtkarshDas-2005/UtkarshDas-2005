@@ -43,7 +43,7 @@ Cadence Virtuoso • Quartus II • Xilinx Vivado • QuestaSim
 FPGA • ESP32 • Arduino • Raspberry Pi • Sensors  
 
 **Protocols**  
-UART • SPI • I2C • AMBA AHB • AXI • APB  
+UART • SPI • I2C • AMBA AHB   
 
 ---
 
