@@ -1,5 +1,4 @@
 
-
 <!-- ===================== BANNER ===================== -->
 ![logo](https://raw.githubusercontent.com/Akshad2911/Akshad2911/main/Github%20banner.png)
 
@@ -38,10 +37,10 @@ I aim to work on **reliable and well-verified digital systems**.
 Verilog HDL • SystemVerilog • UVM  
 
 **EDA Tools**  
-Cadence Virtuoso • Quartus II • Xilinx Vivado • ModelSim  
+Cadence Virtuoso • Quartus II • Xilinx Vivado • QuestaSim  
 
 **Hardware & Platforms**  
-FPGA • ESP32 • Arduino • Raspberry Pi • Sensors • PLC  
+FPGA • ESP32 • Arduino • Raspberry Pi • Sensors  
 
 **Protocols**  
 UART • SPI • I2C • AMBA AHB • AXI • APB  
