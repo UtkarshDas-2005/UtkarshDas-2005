@@ -10,9 +10,8 @@ ECE Student | VLSI & SoC Verification | Verilog & SystemVerilog
 🚀 Building reliable digital systems | 🧠 RTL & Protocol Verification Focused
 </p>
 
-<img align="right" width="340"
-src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-
+<img align="right" alt="Coding" width="340"
+src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 I am an **Electronics and Communication Engineering student** with a strong interest in  
 **VLSI design and SoC verification**.
@@ -81,6 +80,21 @@ UART • SPI • I2C • AMBA AHB
 ## 🌐 Let’s Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/utkarsh-das-14688432b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:utkarsh2005das@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories  
+<br/>
+🚀 Always learning. Always building.
+</p>
   <a href="https://www.linkedin.com/in/utkarsh-das-14688432b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
