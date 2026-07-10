@@ -87,27 +87,3 @@ UART • SPI • I2C • AMBA AHB
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
----
-
-<p align="center">
-⭐ If you like my work, consider starring my repositories  
-<br/>
-🚀 Always learning. Always building.
-</p>
-  <a href="https://www.linkedin.com/in/utkarsh-das-14688432b" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:utkarsh2005das@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-⭐ If you like my work, consider starring my repositories  
-<br/>
-🚀 Always learning. Always building.
-</p>
-
