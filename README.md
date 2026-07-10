@@ -10,8 +10,8 @@ ECE Student | VLSI & SoC Verification | Verilog & SystemVerilog
 🚀 Building reliable digital systems | 🧠 RTL & Protocol Verification Focused
 </p>
 
-<img align="right" alt="Coding" width="340"
-src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+<img align="right" width="340"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5pYzRjZ3V1dHd1Y2N2aG9hbnl6YzR4NnYwMWl4OWJ6Z3N4a2RuNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif">
 
 I am an **Electronics and Communication Engineering student** with a strong interest in  
 **VLSI design and SoC verification**.
