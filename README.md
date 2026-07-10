@@ -1,4 +1,3 @@
-
 <!-- ===================== BANNER ===================== -->
 ![logo](https://github.com/UtkarshDas-2005/UtkarshDas-2005/blob/main/GitHub%20Banner.jpg?raw=true)
 
@@ -12,7 +11,7 @@ ECE Student | VLSI & SoC Verification | Verilog & SystemVerilog
 </p>
 
 <img align="right" alt="Coding" width="340"
-src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 I am an **Electronics and Communication Engineering student** with a strong interest in  
 **VLSI design and SoC verification**.
