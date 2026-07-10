@@ -11,7 +11,8 @@ ECE Student | VLSI & SoC Verification | Verilog & SystemVerilog
 </p>
 
 <img align="right" width="340"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5pYzRjZ3V1dHd1Y2N2aG9hbnl6YzR4NnYwMWl4OWJ6Z3N4a2RuNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif">
+src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
 
 I am an **Electronics and Communication Engineering student** with a strong interest in  
 **VLSI design and SoC verification**.
