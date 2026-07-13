@@ -32,17 +32,33 @@ I aim to work on **reliable and well-verified digital systems**.
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi" />
 </p>
 
-**HDL & Verification**  
-Verilog HDL • SystemVerilog • UVM  
+## ⚡ HDL & Verification
 
-**EDA Tools**  
-Cadence Virtuoso • Quartus II • Xilinx Vivado • QuestaSim  
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-6A0DAD?style=for-the-badge&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-4CAF50?style=for-the-badge)
 
-**Hardware & Platforms**  
-FPGA • ESP32 • Arduino • Raspberry Pi • Sensors  
+## 🛠️ EDA Tools
 
-**Protocols**  
-UART • SPI • I2C • AMBA AHB   
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-red?style=for-the-badge)
+![Quartus II](https://img.shields.io/badge/Quartus_II-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-0066CC?style=for-the-badge)
+
+## 🔧 Hardware & Platforms
+
+![FPGA](https://img.shields.io/badge/FPGA-00979D?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors-4CAF50?style=for-the-badge)
+
+## 📡 Protocols
+
+![UART](https://img.shields.io/badge/UART-3F51B5?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-009688?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I²C-607D8B?style=for-the-badge)
+![AMBA AHB](https://img.shields.io/badge/AMBA_AHB-FF9800?style=for-the-badge)
 
 ---
 
