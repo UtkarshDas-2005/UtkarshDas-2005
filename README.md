@@ -97,7 +97,7 @@ I aim to work on **reliable and well-verified digital systems**.
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=UtkarshDas-2005&theme=highcontrast&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=UtkarshDas-2005&theme=chartreuse-dark&hide_border=true&border_radius=10" />
 </p>
 
 ---
