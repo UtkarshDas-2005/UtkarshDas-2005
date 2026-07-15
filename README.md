@@ -96,16 +96,11 @@ I aim to work on **reliable and well-verified digital systems**.
 ## 📈 GitHub Stats
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=UtkarshDas-2005&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshDas-2005&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshDas-2005&theme=github-compact&hide_border=true"/>
-</p>
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevSushant03&theme=tokyonight&hide_border=true)
+  
+</div>
 
 ---
 
