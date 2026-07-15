@@ -98,7 +98,7 @@ I aim to work on **reliable and well-verified digital systems**.
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevSushant03&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UtkarshDas-2005&theme=tokyonight&hide_border=true)
   
 </div>
 
