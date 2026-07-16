@@ -26,51 +26,63 @@ I aim to contribute to the semiconductor industry by developing **robust, effici
 
 ---
 
-## 🛠 Languages & Tools
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,arduino,raspberrypi" />
 </p>
 
-## ⚡ HDL & Verification
+---
+
+## 🛠 Languages & Tools
+
+### 💻 Programming Languages 
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### ⚡ HDL & Verification
 
 ![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-6A0DAD?style=for-the-badge&logoColor=white)
 ![UVM](https://img.shields.io/badge/UVM-4CAF50?style=for-the-badge)
 
-## 🛠️ EDA Tools
+### 🛠️ VLSI & EDA Tools
 
 ![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-red?style=for-the-badge)
-![Quartus II](https://img.shields.io/badge/Quartus_II-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Quartus Prime](https://img.shields.io/badge/Quartus_II-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-0066CC?style=for-the-badge)
+![EDA Playground](https://img.shields.io/badge/EDA_Playground-1E88E5?style=for-the-badge)
 
-## 🔧 Hardware & Platforms
+### 🔧 Hardware & Platforms
 
 ![FPGA](https://img.shields.io/badge/FPGA-00979D?style=for-the-badge)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensors-4CAF50?style=for-the-badge)
 
-## 📡 Protocols
+### 🎯 Design & Verification Skills
+
+![RTL Design](https://img.shields.io/badge/RTL_Design-4CAF50?style=for-the-badge)
+![FSM Design](https://img.shields.io/badge/FSM_Design-673AB7?style=for-the-badge)
+![DRC](https://img.shields.io/badge/DRC-2196F3?style=for-the-badge)
+![LVS](https://img.shields.io/badge/LVS-FF9800?style=for-the-badge)
+![PEX](https://img.shields.io/badge/PEX-9C27B0?style=for-the-badge)
+![GDSII](https://img.shields.io/badge/GDSII-795548?style=for-the-badge)
+
+### 📡 Protocols
 
 ![UART](https://img.shields.io/badge/UART-3F51B5?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-009688?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I²C-607D8B?style=for-the-badge)
+![PS/2](https://img.shields.io/badge/PS%2F2-795548?style=for-the-badge)
 ![AMBA AHB](https://img.shields.io/badge/AMBA_AHB-FF9800?style=for-the-badge)
 
 ---
 
 ## 🚀 Projects
-
-### 👟 Fittract – Smart Shoe for Gait Analysis
-- ESP32-based wearable for real-time gait monitoring  
-- Measures step count, speed, and inclination  
-- Bluetooth-enabled Android application  
-- Designed for healthcare and fitness applications  
-
----
 
 ### 🔍 UVM-Based Verification of AMBA AHB Protocol
 - Developed UVM testbench to verify AHB transactions  
@@ -93,7 +105,7 @@ I aim to contribute to the semiconductor industry by developing **robust, effici
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 
 <div align="center">
@@ -104,7 +116,7 @@ I aim to contribute to the semiconductor industry by developing **robust, effici
 
 ---
 
-## 🌐 Let’s Connect
+### 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/utkarsh-das-14688432b" target="_blank">
@@ -113,4 +125,12 @@ I aim to contribute to the semiconductor industry by developing **robust, effici
   <a href="mailto:utkarsh2005das@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories  
+<br/>
+🚀 Always learning. Always building.
 </p>
