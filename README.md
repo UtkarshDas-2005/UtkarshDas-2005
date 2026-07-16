@@ -1,28 +1,28 @@
 <!-- ===================== BANNER ===================== -->
-![logo](https://github.com/UtkarshDas-2005/UtkarshDas-2005/blob/main/GitHub%20Banner.jpg?raw=true)
-
-<h1 align="center">Hi 👋, I'm Utkarsh Das</h1>
-<h3 align="center">
-ECE Student | VLSI & SoC Verification | Verilog & SystemVerilog
-</h3>
-
 <p align="center">
-🚀 Building reliable digital systems | 🧠 RTL & Protocol Verification Focused
+  <img src="https://raw.githubusercontent.com/UtkarshDas-2005/UtkarshDas-2005/main/c9239718b279a2a76a255075d7165714.gif" width="10000" alt="Banner">
 </p>
+
+<h3 align="center"> 👋 Welcome to my GitHub profile!</h3>
+
+<h3 align="center"> VLSI Design Engineer | RTL Design | FPGA Development | SoC Design Verification </h3>
+
+<p align="center"> 🔬 SystemVerilog • UVM • Verilog HDL • Cadence Virtuoso • AMBA AHB • SPI • UART • I2C </p>
 
 <img align="right" alt="Coding" width="280"
 src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
-I am an **Electronics and Communication Engineering student** with a strong interest in  
-**VLSI design and SoC verification**.
+I'm an **Electronics and Communication Engineering graduate** with hands-on experience in **SoC Design Verification, RTL Design, FPGA Development, and Digital IC Design**. I enjoy building reliable digital systems and developing verification environments using industry-standard methodologies.
 
-- 🔍 Strong understanding of **RTL design and verification concepts**
-- 🧩 Experience with **FSM-based digital design**
-- ⚡ Verified **SPI, I2C, UART, and AMBA AHB** protocols
-- 🛠 Worked on **UVM testbenches, debugging, and waveform analysis**
-- 📐 Familiar with **industry-standard verification flows**
+- 🚀 Developed **UVM-based verification environments** using **SystemVerilog**
+- ⚡ Designed and verified **RTL modules** using **Verilog HDL**
+- 🔍 Verified **AMBA AHB, SPI, UART, and I2C** protocols
+- 🛠️ Performed **functional verification, debugging, and waveform analysis**
+- 🧠 Designed **6T, 8T, and 10T SRAM cells** using **Cadence Virtuoso**
+- 📏 Executed **CMOS design, DRC, LVS, PEX, and post-layout verification**
+- 💡 Built **FPGA-based digital designs** using **Quartus Prime** and **Xilinx Vivado**
 
-I aim to work on **reliable and well-verified digital systems**.
+I aim to contribute to the semiconductor industry by developing **robust, efficient, and thoroughly verified digital systems**.
 
 ---
 
