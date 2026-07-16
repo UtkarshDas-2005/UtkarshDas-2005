@@ -50,7 +50,7 @@ I aim to contribute to the semiconductor industry by developing **robust, effici
 
 ### 🛠️ VLSI & EDA Tools
 
-![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-red?style=for-the-badge)
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-red?style=for-the-badge)
 ![Quartus Prime](https://img.shields.io/badge/Quartus_II-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-0066CC?style=for-the-badge)
