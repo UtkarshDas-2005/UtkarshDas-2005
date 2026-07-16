@@ -18,7 +18,6 @@ I'm an **Electronics and Communication Engineering graduate** with hands-on expe
 - ⚡ Designed and verified **RTL modules** using **Verilog HDL**
 - 🔍 Verified **AMBA AHB, SPI, UART, and I2C** protocols
 - 🛠️ Performed **functional verification, debugging, and waveform analysis**
-- 🧠 Designed **6T, 8T, and 10T SRAM cells** using **Cadence Virtuoso**
 - 📏 Executed **CMOS design, DRC, LVS, PEX, and post-layout verification**
 - 💡 Built **FPGA-based digital designs** using **Quartus Prime** and **Xilinx Vivado**
 
