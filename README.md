@@ -104,14 +104,12 @@ I aim to contribute to the semiconductor industry by developing **robust, effici
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Streak
 
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=UtkarshDas-2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=UtkarshDas-2005&theme=highcontrast&hide_border=true&border_radius=10" />
+</p>
 
 ---
 
